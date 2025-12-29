@@ -1,0 +1,13 @@
+  <div class="carousel-container">
+    <div class="carousel" id="carousel">
+      <img src="src/img/image1.jpg" alt="Destinasi 1">
+      <img src="src/img/image2.jpg" alt="Destinasi 2">
+      <img src="src/img/image3.jpg" alt="Destinasi 3">
+      <img src="src/img/image4.jpg" alt="Destinasi 4">
+      <img src="src/img/image5.jpg" alt="Destinasi 5">
+      <img src="src/img/image6.jpg" alt="Destinasi 6">
+      <img src="src/img/image7.jpg" alt="Destinasi 7">
+      <img src="src/img/image8.jpg" alt="Destinasi 8">
+      <img src="src/img/image9.jpg" alt="Destinasi 9">
+      <img src="src/img/mage10.jpg" alt="Destinasi 10">
+    </div>
